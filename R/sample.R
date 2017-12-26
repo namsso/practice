@@ -10,6 +10,6 @@
 
 
 my_sample<-function(x){
-  y=x^2
+  y=x^2+1
   return(y)
 }
